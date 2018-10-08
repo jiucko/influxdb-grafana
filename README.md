@@ -22,8 +22,9 @@
 Grafana是一个优秀友好的数据可视化软件，常和influxdb 搭配使用，构建基本的数据监测系统。
 
 ### 官网教程
-[官网demo](https://play.grafana.org/d/000000012/grafana-play-home?orgId=1)
-============
+
+[官网 demo](https://play.grafana.org/d/000000012/grafana-play-home?orgId=1)
+
 [grafana-zabbix文档](http://docs.grafana-zabbix.org/)
-=============
+
 [官方安装教程](http://docs.grafana.org/installation/rpm/)
